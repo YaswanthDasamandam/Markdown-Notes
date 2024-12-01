@@ -1,3 +1,29 @@
+#### Table of Contents
+
+- <ins> Underline </ins>
+```md
+<ins> Underline </ins>
+```
+- >Indent
+```md
+> This creates indent 
+>> this is also indent
+```
+- <center>Center</center> 
+```md
+<center>This text is centered.</center>
+```
+- [Color](#color)<br>
+<font color="red">This text is red!</font>
+<p style="color:blue">Make this text blue.</p>
+
+```md
+<font color="red">This text is red!</font>
+
+<p style="color:blue">Make this text blue.</p>
+```
+
+# Examples  
 
 Some of these words <ins>will be underlined</ins>.
 
@@ -48,13 +74,7 @@ copyright (&copy;)
 | List        | Here's a list! <ul><li>Item one.</li><li>Item two.</li></ul> |
 
 
-#### Table of Contents
 
-- [Underline](#underline)
-- [Indent](#indent)
-- [Center](#center)
-- [Color](#color)
-- [Contents](#Table)
 
 [![Image alt text](https://img.youtube.com/vi/YOUTUBE-ID/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE-ID)
 
@@ -111,7 +131,7 @@ And this is the second line.
 
 * First Item
     + Second Item
-    * **Whst** is this
+    * **What** is this
     > eeee
 * This is good
 
@@ -127,7 +147,9 @@ ok what is this ok ``
  </head>
 </html>
 
-***
+    All the codes below generate lines 
+    `***` `---` `___`
+*** 
 ---
 ___
 
@@ -175,7 +197,9 @@ First Term
 : This is its meaning 
 
 
+```
 ~~Strike through~~
+```
 
 - [x] Write the press release
 - [] Second
